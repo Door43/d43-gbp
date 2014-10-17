@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbp:home|Door43 (gbp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbp|d43-gbp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbp/archive/master.zip|d43-gbp.zip]]
+
+**Recent Changes**
+{{changes>ns = gbp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbp|Ethnologue data]]
+
